@@ -10,8 +10,8 @@ If you decide to use this build for a preset, remember to exclusively credit [**
 - Hotkeys must be disabled
 
 ## Future Releases
-### 5.1.0
-- Build had too many weird bugs
+### 5.4.x / 5.5.x
+- Will build after all the hotfixes are released, or ReShade 5 becomes more stable
 
 
 ## DIY Method:  
